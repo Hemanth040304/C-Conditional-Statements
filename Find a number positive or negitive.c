@@ -13,9 +13,9 @@ void main()
 	if(number<0)
 	{
 		printf("Negitive");
-    }
-    else
-    {
+        }
+        else
+        {
     	printf("Positive");
 	}
 }
